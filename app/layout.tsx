@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "AI NOTION APP",
-  description: "Create next app",
+  description: "AI NOTION MULTI-TASK APP",
 };
 
 export default function RootLayout({
